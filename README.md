@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Huzaifah-Altaf/DSA/tree/master/0035-search-insert-position) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Huzaifah-Altaf/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Huzaifah-Altaf/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/Huzaifah-Altaf/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Huzaifah-Altaf/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Huzaifah-Altaf/DSA/tree/master/0069-sqrtx) |
 ## String
 |  |
