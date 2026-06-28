@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0035-search-insert-position](https://github.com/Huzaifah-Altaf/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Huzaifah-Altaf/DSA/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/Huzaifah-Altaf/DSA/tree/master/0074-search-a-2d-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Huzaifah-Altaf/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Huzaifah-Altaf/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/Huzaifah-Altaf/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0035-search-insert-position](https://github.com/Huzaifah-Altaf/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Huzaifah-Altaf/DSA/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Huzaifah-Altaf/DSA/tree/master/0074-search-a-2d-matrix) |
 ## String
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Huzaifah-Altaf/DSA/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Huzaifah-Altaf/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
