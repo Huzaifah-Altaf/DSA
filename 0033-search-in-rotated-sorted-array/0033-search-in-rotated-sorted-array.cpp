@@ -4,8 +4,8 @@ public:
         int n = nums.size();
         int i = n - 1;
         int k = 0;
-        if(n == 1) k = 0;
-        else{
+        // if(n == 1) k = 0;
+        // else{
             int l = 0;
             int h = n -1;
             int mid;
@@ -19,11 +19,11 @@ public:
                     h = mid - 1;
                 }
             }
-        }
+        // }
         
-        int l = 0;
-        int h = k;
-        int mid;
+         l = 0;
+         h = k;
+         mid;
         while(l <= h){
             mid = (l + h) / 2;
             if(nums[mid] == target){
