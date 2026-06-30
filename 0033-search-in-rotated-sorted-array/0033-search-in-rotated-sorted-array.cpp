@@ -4,8 +4,7 @@ public:
         int n = nums.size();
         int i = n - 1;
         int k = 0;
-        // if(n == 1) k = 0;
-        // else{
+
             int l = 0;
             int h = n -1;
             int mid;
@@ -19,7 +18,7 @@ public:
                     h = mid - 1;
                 }
             }
-        // }
+        
         
          l = 0;
          h = k;
