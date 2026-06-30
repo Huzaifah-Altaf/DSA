@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/0796-rotate-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Huzaifah-Altaf/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Greedy
 |  |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Huzaifah-Altaf/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
