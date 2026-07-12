@@ -1,7 +1,9 @@
 # DSA
 A collection of DSA questions to ace the coding interview! 
-<!---LeetCode Topics Start-->
 
+
+🔗 **Smart Interviews Profile:**  
+[Huzaifah Altaf](https://hive.smartinterviews.in/profile/huzaifah)
 # Smart Interviews Problems
 
 | Problems |
