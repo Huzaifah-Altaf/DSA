@@ -1,5 +1,5 @@
 # DSA
-A collection of LeetCode questions to ace the coding interview! 
+A collection of DSA questions to ace the coding interview! 
 <!---LeetCode Topics Start-->
 
 # Smart Interviews Problems
