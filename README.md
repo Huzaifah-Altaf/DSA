@@ -4,7 +4,7 @@ A collection of LeetCode questions to ace the coding interview!
 
 # Smart Interviews Solutions
 
-| Problem |
+| Problems |
 |---------|
 | [Sum of Array Elements](https://github.com/Huzaifah-Altaf/DSA/blob/main/Sum%20of%20Array%20Elements) |
 
