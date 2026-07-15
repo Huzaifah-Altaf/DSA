@@ -40,6 +40,7 @@ A collection of DSA questions to ace the coding interview!
 | ------- |
 | [0069-sqrtx](https://github.com/Huzaifah-Altaf/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/0189-rotate-array) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,4 +109,16 @@ A collection of DSA questions to ace the coding interview!
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/0796-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Recursion
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Simulation
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
