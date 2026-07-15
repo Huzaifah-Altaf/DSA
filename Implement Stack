@@ -1,0 +1,42 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+void push(int a [], int x, int &top){
+    top++;
+    a[top] = x;
+}
+
+int pop(int a [], int &top){
+    if(top == -1) return -1;
+    return a[top];
+}
+
+
+int main() {
+    int t;
+    cin >> t;
+    int top = -1;
+    int a[10001];
+    while(t--){
+        string s;
+        cin >> s;
+        int x;
+        int ans;
+        if(s == "push"){
+            cin >> x;
+            push(a, x, top);
+        }
+        else{
+            ans = pop(a, top);
+            if(top == -1) cout << "Empty" << endl;
+
+            else{
+                 cout << ans << endl;
+                 top--;
+            }
+        }
+
+        
+    }
+    return 0;
+}
