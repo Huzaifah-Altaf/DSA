@@ -35,6 +35,7 @@ A collection of DSA questions to ace the coding interview!
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Huzaifah-Altaf/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/Huzaifah-Altaf/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Huzaifah-Altaf/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Huzaifah-Altaf/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of DSA questions to ace the coding interview!
 | [0557-reverse-words-in-a-string-iii](https://github.com/Huzaifah-Altaf/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/0796-rotate-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Huzaifah-Altaf/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Huzaifah-Altaf/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Greedy
 |  |
 | ------- |
