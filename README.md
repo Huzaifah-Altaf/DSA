@@ -31,6 +31,7 @@ A collection of DSA questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Huzaifah-Altaf/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Huzaifah-Altaf/DSA/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/Huzaifah-Altaf/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Huzaifah-Altaf/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
@@ -134,6 +135,7 @@ A collection of DSA questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Huzaifah-Altaf/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
