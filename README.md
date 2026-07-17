@@ -61,6 +61,7 @@ A collection of DSA questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Huzaifah-Altaf/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Huzaifah-Altaf/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -96,6 +97,7 @@ A collection of DSA questions to ace the coding interview!
 | [0015-3sum](https://github.com/Huzaifah-Altaf/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Huzaifah-Altaf/DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Huzaifah-Altaf/DSA/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Huzaifah-Altaf/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/0344-reverse-string) |
