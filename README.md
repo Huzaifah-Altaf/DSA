@@ -65,6 +65,7 @@ A collection of DSA questions to ace the coding interview!
 | ------- |
 | [0125-valid-palindrome](https://github.com/Huzaifah-Altaf/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Huzaifah-Altaf/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Huzaifah-Altaf/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/0796-rotate-string) |
@@ -80,6 +81,7 @@ A collection of DSA questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/Huzaifah-Altaf/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Huzaifah-Altaf/DSA/tree/master/0018-4sum) |
+| [0242-valid-anagram](https://github.com/Huzaifah-Altaf/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Huzaifah-Altaf/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -91,6 +93,7 @@ A collection of DSA questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Huzaifah-Altaf/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Huzaifah-Altaf/DSA/tree/master/1748-sum-of-unique-elements) |
