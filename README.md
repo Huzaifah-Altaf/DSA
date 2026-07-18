@@ -120,6 +120,7 @@ A collection of DSA questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Huzaifah-Altaf/DSA/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/Huzaifah-Altaf/DSA/tree/master/0225-implement-stack-using-queues) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -153,4 +154,12 @@ A collection of DSA questions to ace the coding interview!
 |  |
 | ------- |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Huzaifah-Altaf/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Huzaifah-Altaf/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
