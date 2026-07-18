@@ -36,6 +36,7 @@ A collection of DSA questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/Huzaifah-Altaf/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Huzaifah-Altaf/DSA/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/Huzaifah-Altaf/DSA/tree/master/0704-binary-search) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Huzaifah-Altaf/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Huzaifah-Altaf/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -60,6 +61,7 @@ A collection of DSA questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/Huzaifah-Altaf/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Huzaifah-Altaf/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Huzaifah-Altaf/DSA/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
