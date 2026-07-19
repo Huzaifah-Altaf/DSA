@@ -24,6 +24,7 @@ A collection of DSA questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Huzaifah-Altaf/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Huzaifah-Altaf/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Huzaifah-Altaf/DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -66,6 +67,7 @@ A collection of DSA questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Huzaifah-Altaf/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Huzaifah-Altaf/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Huzaifah-Altaf/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -175,4 +177,8 @@ A collection of DSA questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Huzaifah-Altaf/DSA/tree/master/0258-add-digits) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Huzaifah-Altaf/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
