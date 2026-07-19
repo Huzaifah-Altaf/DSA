@@ -49,6 +49,7 @@ A collection of DSA questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/Huzaifah-Altaf/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Huzaifah-Altaf/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Huzaifah-Altaf/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
@@ -154,6 +155,7 @@ A collection of DSA questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Huzaifah-Altaf/DSA/tree/master/0258-add-digits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
@@ -165,4 +167,8 @@ A collection of DSA questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Huzaifah-Altaf/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Huzaifah-Altaf/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Huzaifah-Altaf/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
