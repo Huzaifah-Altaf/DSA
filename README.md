@@ -81,6 +81,7 @@ A collection of DSA questions to ace the coding interview!
 | [0917-reverse-only-letters](https://github.com/Huzaifah-Altaf/DSA/tree/master/0917-reverse-only-letters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Huzaifah-Altaf/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Huzaifah-Altaf/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2390-removing-stars-from-a-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of DSA questions to ace the coding interview!
 | [0155-min-stack](https://github.com/Huzaifah-Altaf/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Huzaifah-Altaf/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Huzaifah-Altaf/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [2390-removing-stars-from-a-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of DSA questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Huzaifah-Altaf/DSA/tree/master/0258-add-digits) |
+| [2390-removing-stars-from-a-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
