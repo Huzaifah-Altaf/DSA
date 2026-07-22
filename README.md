@@ -38,6 +38,7 @@ A collection of DSA questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/Huzaifah-Altaf/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Huzaifah-Altaf/DSA/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Huzaifah-Altaf/DSA/tree/master/0704-binary-search) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Huzaifah-Altaf/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -105,6 +106,7 @@ A collection of DSA questions to ace the coding interview!
 | ------- |
 | [0242-valid-anagram](https://github.com/Huzaifah-Altaf/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Huzaifah-Altaf/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
@@ -133,11 +135,13 @@ A collection of DSA questions to ace the coding interview!
 | [0155-min-stack](https://github.com/Huzaifah-Altaf/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Huzaifah-Altaf/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Huzaifah-Altaf/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/0496-next-greater-element-i) |
 | [2390-removing-stars-from-a-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Huzaifah-Altaf/DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |
