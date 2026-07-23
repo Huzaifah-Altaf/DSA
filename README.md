@@ -47,6 +47,7 @@ A collection of DSA questions to ace the coding interview!
 | [1748-sum-of-unique-elements](https://github.com/Huzaifah-Altaf/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Huzaifah-Altaf/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Huzaifah-Altaf/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2562-find-the-array-concatenation-value](https://github.com/Huzaifah-Altaf/DSA/tree/master/2562-find-the-array-concatenation-value) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of DSA questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Huzaifah-Altaf/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/Huzaifah-Altaf/DSA/tree/master/0917-reverse-only-letters) |
+| [2562-find-the-array-concatenation-value](https://github.com/Huzaifah-Altaf/DSA/tree/master/2562-find-the-array-concatenation-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of DSA questions to ace the coding interview!
 | ------- |
 | [0258-add-digits](https://github.com/Huzaifah-Altaf/DSA/tree/master/0258-add-digits) |
 | [2390-removing-stars-from-a-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2562-find-the-array-concatenation-value](https://github.com/Huzaifah-Altaf/DSA/tree/master/2562-find-the-array-concatenation-value) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
