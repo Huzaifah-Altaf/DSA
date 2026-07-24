@@ -82,6 +82,7 @@ A collection of DSA questions to ace the coding interview!
 | [0557-reverse-words-in-a-string-iii](https://github.com/Huzaifah-Altaf/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/Huzaifah-Altaf/DSA/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Huzaifah-Altaf/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Huzaifah-Altaf/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -143,6 +144,7 @@ A collection of DSA questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/Huzaifah-Altaf/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Huzaifah-Altaf/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/0496-next-greater-element-i) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
