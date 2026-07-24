@@ -1,0 +1,47 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int t;
+    cin >> t;
+    int i, j, k;
+    while(t--){
+        int n1;
+        cin >> n1;
+        int a[n1];
+        for(i = 0; i < n1; i++) cin >> a[i];
+
+        int n2;
+        cin >> n2;
+        int b[n2];
+        for(i = 0; i < n2; i++) cin >> b[i];
+
+        int n3;
+        cin >> n3;
+        int c[n3];
+        for(i = 0; i < n3; i++) cin >> c[i];
+
+        sort(a, a + n1);
+        sort(b, b + n2);
+        sort(c, c + n3);
+        
+        i = 0, j = 0, k = 0;
+        int result = INT_MAX;
+        while(i < n1 && j < n2 && k < n3){
+            result = min((max(a[i], max(b[j], c[k])) - min(a[i], min(b[j], c[k]))), result);
+            if(a[i] <= b[j] && a[i] <= c[k]){
+                i++;
+            }
+            else if(b[j] <= a[i] && b[j] <= c[k]){
+                j++;
+            }
+            else{
+                k++;
+            }
+
+        }
+        //  result = min((max(a[i], max(b[j], c[k])) - min(a[i], min(b[j], c[k]))), result);
+        cout << result << endl; 
+    }
+    return 0;
+}
