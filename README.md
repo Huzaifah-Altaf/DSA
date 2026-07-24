@@ -79,6 +79,7 @@ A collection of DSA questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Huzaifah-Altaf/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/Huzaifah-Altaf/DSA/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Huzaifah-Altaf/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/Huzaifah-Altaf/DSA/tree/master/0917-reverse-only-letters) |
