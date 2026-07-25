@@ -57,6 +57,7 @@ A collection of DSA questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/Huzaifah-Altaf/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Huzaifah-Altaf/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Huzaifah-Altaf/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
@@ -174,6 +175,7 @@ A collection of DSA questions to ace the coding interview!
 | [0136-single-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Huzaifah-Altaf/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Huzaifah-Altaf/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
