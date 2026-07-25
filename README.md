@@ -59,6 +59,7 @@ A collection of DSA questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Huzaifah-Altaf/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Huzaifah-Altaf/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of DSA questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Huzaifah-Altaf/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [3536-maximum-product-of-two-digits](https://github.com/Huzaifah-Altaf/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
 | ------- |
