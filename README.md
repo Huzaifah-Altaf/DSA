@@ -229,6 +229,7 @@ A collection of DSA questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/Huzaifah-Altaf/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -241,6 +242,7 @@ A collection of DSA questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Huzaifah-Altaf/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Huzaifah-Altaf/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0226-invert-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
@@ -252,6 +254,7 @@ A collection of DSA questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/Huzaifah-Altaf/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -266,6 +269,7 @@ A collection of DSA questions to ace the coding interview!
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
