@@ -37,6 +37,7 @@ A collection of DSA questions to ace the coding interview!
 | [0136-single-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Huzaifah-Altaf/DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Huzaifah-Altaf/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Huzaifah-Altaf/DSA/tree/master/0283-move-zeroes) |
@@ -102,6 +103,7 @@ A collection of DSA questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/Huzaifah-Altaf/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Huzaifah-Altaf/DSA/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/Huzaifah-Altaf/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Huzaifah-Altaf/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Huzaifah-Altaf/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -116,6 +118,7 @@ A collection of DSA questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Huzaifah-Altaf/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Huzaifah-Altaf/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/0496-next-greater-element-i) |
