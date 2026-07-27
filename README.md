@@ -238,6 +238,7 @@ A collection of DSA questions to ace the coding interview!
 | [0501-find-mode-in-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -252,6 +253,7 @@ A collection of DSA questions to ace the coding interview!
 | [0501-find-mode-in-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of DSA questions to ace the coding interview!
 | [0501-find-mode-in-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
