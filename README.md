@@ -11,6 +11,8 @@ A collection of DSA questions to ace the coding interview!
 | [Sum of Array Elements](https://github.com/Huzaifah-Altaf/DSA/blob/main/Sum%20of%20Array%20Elements) |
 | [Implement Stack](https://github.com/Huzaifah-Altaf/DSA/blob/main/Implement%20Stack) |
 | [Closing Triplets](https://github.com/Huzaifah-Altaf/DSA/blob/main/Closing%20Triplets) |
+| [Zig-Zag Level Order of Tree](https://github.com/Huzaifah-Altaf/DSA/blob/main/Zig-Zag%20Level%20Order%20of%20Tree) |
+
 
 
 
