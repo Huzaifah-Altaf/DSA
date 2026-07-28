@@ -236,6 +236,7 @@ A collection of DSA questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/Huzaifah-Altaf/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Huzaifah-Altaf/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -252,6 +253,7 @@ A collection of DSA questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Huzaifah-Altaf/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Huzaifah-Altaf/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -269,6 +271,7 @@ A collection of DSA questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/Huzaifah-Altaf/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Huzaifah-Altaf/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -290,6 +293,7 @@ A collection of DSA questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
