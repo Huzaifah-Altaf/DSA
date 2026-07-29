@@ -43,6 +43,7 @@ A collection of DSA questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/Huzaifah-Altaf/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Huzaifah-Altaf/DSA/tree/master/0283-move-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Huzaifah-Altaf/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Huzaifah-Altaf/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Huzaifah-Altaf/DSA/tree/master/0704-binary-search) |
@@ -78,6 +79,7 @@ A collection of DSA questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/Huzaifah-Altaf/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Huzaifah-Altaf/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Huzaifah-Altaf/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/Huzaifah-Altaf/DSA/tree/master/0704-binary-search) |
 ## String
 |  |
@@ -109,6 +111,7 @@ A collection of DSA questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Huzaifah-Altaf/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Huzaifah-Altaf/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Huzaifah-Altaf/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Huzaifah-Altaf/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Huzaifah-Altaf/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -174,6 +177,7 @@ A collection of DSA questions to ace the coding interview!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Huzaifah-Altaf/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Huzaifah-Altaf/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Huzaifah-Altaf/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -308,4 +312,8 @@ A collection of DSA questions to ace the coding interview!
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Huzaifah-Altaf/DSA/tree/master/1732-find-the-highest-altitude) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Huzaifah-Altaf/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
