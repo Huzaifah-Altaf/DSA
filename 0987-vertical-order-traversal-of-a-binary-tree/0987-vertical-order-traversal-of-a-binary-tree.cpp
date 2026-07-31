@@ -15,7 +15,7 @@ public:
         if(root == nullptr) return;
 
         mp[col].push_back({row, root -> val});
-        sort(mp[col].begin(), mp[col].end());
+        
         
         fun(root -> left, col - 1, row + 1, mp);
         fun(root -> right, col + 1, row + 1, mp);
@@ -27,11 +27,17 @@ public:
         map<int, vector<pair<int, int>>> mp;
         fun(root, 0, 0, mp);
         for(auto it : mp){
-            vector<int> ans;
+            vector<pair<int, int>> ans;
             for(auto p : it.second){
-                ans.push_back(p.second);
+                ans.push_back(p);
             }
-            result.push_back(ans);
+            sort(ans.begin(), ans.end());
+            vector<int> ans1;
+            for(int i = 0; i < ans.size(); i++){
+               ans1.push_back(ans[i].second); 
+            }
+            result.push_back(ans1);
+            
         }
         return result;
         
