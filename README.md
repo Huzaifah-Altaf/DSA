@@ -115,6 +115,7 @@ A collection of DSA questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Huzaifah-Altaf/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Huzaifah-Altaf/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Huzaifah-Altaf/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3536-maximum-product-of-two-digits](https://github.com/Huzaifah-Altaf/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -131,6 +132,7 @@ A collection of DSA questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Huzaifah-Altaf/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
@@ -252,6 +254,7 @@ A collection of DSA questions to ace the coding interview!
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -267,6 +270,7 @@ A collection of DSA questions to ace the coding interview!
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -289,6 +293,7 @@ A collection of DSA questions to ace the coding interview!
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -301,6 +306,7 @@ A collection of DSA questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
