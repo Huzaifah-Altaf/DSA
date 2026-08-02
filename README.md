@@ -59,6 +59,7 @@ A collection of DSA questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Huzaifah-Altaf/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Huzaifah-Altaf/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Huzaifah-Altaf/DSA/tree/master/0231-power-of-two) |
@@ -88,6 +89,7 @@ A collection of DSA questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/Huzaifah-Altaf/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Huzaifah-Altaf/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Huzaifah-Altaf/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Huzaifah-Altaf/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Huzaifah-Altaf/DSA/tree/master/0242-valid-anagram) |
@@ -196,6 +198,7 @@ A collection of DSA questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Huzaifah-Altaf/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Huzaifah-Altaf/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Huzaifah-Altaf/DSA/tree/master/0231-power-of-two) |
@@ -210,6 +213,7 @@ A collection of DSA questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Huzaifah-Altaf/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Huzaifah-Altaf/DSA/tree/master/0258-add-digits) |
 | [2390-removing-stars-from-a-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2562-find-the-array-concatenation-value](https://github.com/Huzaifah-Altaf/DSA/tree/master/2562-find-the-array-concatenation-value) |
