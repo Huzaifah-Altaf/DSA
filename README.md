@@ -56,6 +56,7 @@ A collection of DSA questions to ace the coding interview!
 | [1748-sum-of-unique-elements](https://github.com/Huzaifah-Altaf/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Huzaifah-Altaf/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Huzaifah-Altaf/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Huzaifah-Altaf/DSA/tree/master/2562-find-the-array-concatenation-value) |
 ## Math
 |  |
@@ -129,6 +130,7 @@ A collection of DSA questions to ace the coding interview!
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Huzaifah-Altaf/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Huzaifah-Altaf/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of DSA questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Huzaifah-Altaf/DSA/tree/master/1748-sum-of-unique-elements) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
