@@ -41,6 +41,7 @@ A collection of DSA questions to ace the coding interview!
 | [0136-single-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Huzaifah-Altaf/DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Huzaifah-Altaf/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
@@ -116,6 +117,7 @@ A collection of DSA questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/Huzaifah-Altaf/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Huzaifah-Altaf/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Huzaifah-Altaf/DSA/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Huzaifah-Altaf/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Huzaifah-Altaf/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
@@ -196,6 +198,7 @@ A collection of DSA questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Huzaifah-Altaf/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## String Matching
 |  |
@@ -344,9 +347,14 @@ A collection of DSA questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Huzaifah-Altaf/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
