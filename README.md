@@ -44,6 +44,7 @@ A collection of DSA questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Huzaifah-Altaf/DSA/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/Huzaifah-Altaf/DSA/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Huzaifah-Altaf/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Huzaifah-Altaf/DSA/tree/master/0283-move-zeroes) |
