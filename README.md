@@ -50,6 +50,7 @@ A collection of DSA questions to ace the coding interview!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Huzaifah-Altaf/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Huzaifah-Altaf/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0648-replace-words](https://github.com/Huzaifah-Altaf/DSA/tree/master/0648-replace-words) |
 | [0704-binary-search](https://github.com/Huzaifah-Altaf/DSA/tree/master/0704-binary-search) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Huzaifah-Altaf/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -104,6 +105,7 @@ A collection of DSA questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Huzaifah-Altaf/DSA/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Huzaifah-Altaf/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0648-replace-words](https://github.com/Huzaifah-Altaf/DSA/tree/master/0648-replace-words) |
 | [0796-rotate-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/Huzaifah-Altaf/DSA/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Huzaifah-Altaf/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -145,6 +147,7 @@ A collection of DSA questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Huzaifah-Altaf/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/0496-next-greater-element-i) |
+| [0648-replace-words](https://github.com/Huzaifah-Altaf/DSA/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Huzaifah-Altaf/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -252,6 +255,7 @@ A collection of DSA questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Huzaifah-Altaf/DSA/tree/master/0014-longest-common-prefix) |
+| [0648-replace-words](https://github.com/Huzaifah-Altaf/DSA/tree/master/0648-replace-words) |
 ## Tree
 |  |
 | ------- |
