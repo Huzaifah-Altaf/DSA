@@ -50,6 +50,7 @@ A collection of DSA questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Huzaifah-Altaf/DSA/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Huzaifah-Altaf/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/Huzaifah-Altaf/DSA/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/Huzaifah-Altaf/DSA/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Huzaifah-Altaf/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/Huzaifah-Altaf/DSA/tree/master/0648-replace-words) |
 | [0704-binary-search](https://github.com/Huzaifah-Altaf/DSA/tree/master/0704-binary-search) |
@@ -129,6 +130,7 @@ A collection of DSA questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Huzaifah-Altaf/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Huzaifah-Altaf/DSA/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Huzaifah-Altaf/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0506-relative-ranks](https://github.com/Huzaifah-Altaf/DSA/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Huzaifah-Altaf/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Huzaifah-Altaf/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Huzaifah-Altaf/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -359,6 +361,7 @@ A collection of DSA questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Huzaifah-Altaf/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Huzaifah-Altaf/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0506-relative-ranks](https://github.com/Huzaifah-Altaf/DSA/tree/master/0506-relative-ranks) |
 ## Enumeration
 |  |
 | ------- |
